@@ -1,0 +1,46 @@
+C:\C#\Laboratory work No. 5\bin\Debug\Laboratory work No. 5.exe.config
+C:\C#\Laboratory work No. 5\bin\Debug\Laboratory work No. 5.exe
+C:\C#\Laboratory work No. 5\bin\Debug\Laboratory work No. 5.pdb
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.csproj.AssemblyReference.cache
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.csproj.SuggestedBindingRedirects.cache
+C:\C#\Laboratory work No. 5\obj\Debug\MainWindow.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\App.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5_MarkupCompile.cache
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5_MarkupCompile.lref
+C:\C#\Laboratory work No. 5\obj\Debug\MainWindow.baml
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.g.resources
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory_work_No._5.Properties.Resources.resources
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.csproj.GenerateResource.cache
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.csproj.CoreCompileInputs.cache
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.exe
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.pdb
+C:\C#\Laboratory work No. 5\bin\Debug\CsvHelper.dll
+C:\C#\Laboratory work No. 5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#\Laboratory work No. 5\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\C#\Laboratory work No. 5\bin\Debug\System.Buffers.dll
+C:\C#\Laboratory work No. 5\bin\Debug\System.Memory.dll
+C:\C#\Laboratory work No. 5\bin\Debug\System.Numerics.Vectors.dll
+C:\C#\Laboratory work No. 5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\C#\Laboratory work No. 5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\C#\Laboratory work No. 5\bin\Debug\CsvHelper.xml
+C:\C#\Laboratory work No. 5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\C#\Laboratory work No. 5\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\C#\Laboratory work No. 5\bin\Debug\System.Buffers.xml
+C:\C#\Laboratory work No. 5\bin\Debug\System.Memory.xml
+C:\C#\Laboratory work No. 5\bin\Debug\System.Numerics.Vectors.xml
+C:\C#\Laboratory work No. 5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\C#\Laboratory work No. 5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\C#\Laboratory work No. 5\obj\Debug\Laboratory work No. 5.csproj.CopyComplete
+C:\C#\Laboratory work No. 5\obj\Debug\CreateNewProfilePage.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\MainPage.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\CreateNewProfilePage.baml
+C:\C#\Laboratory work No. 5\obj\Debug\MainPage.baml
+C:\C#\Laboratory work No. 5\obj\Debug\ConfirmationWindow.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\ConfirmationWindow.baml
+C:\C#\Laboratory work No. 5\obj\Debug\GodsWindow.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\GodsWindow.baml
+C:\C#\Laboratory work No. 5\obj\Debug\CommonProfileWindow.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\CommonProfileWindow.baml
+C:\C#\Laboratory work No. 5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\TradeWindow.g.cs
+C:\C#\Laboratory work No. 5\obj\Debug\TradeWindow.baml

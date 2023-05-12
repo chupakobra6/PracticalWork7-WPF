@@ -1,0 +1,124 @@
+﻿<Window x:Class="Laboratory_work_No._5.TradeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laboratory_work_No._5"
+        mc:Ignorable="d"
+        Icon="Images\icon.png"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Окно торговли" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="391*"/>
+            <RowDefinition Height="58*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock
+            x:Name="TradeNameTextBlock"
+            Text="Обмен: "
+            FontWeight="Bold"
+            Grid.Column="1"
+            Grid.ColumnSpan="2"
+            VerticalAlignment="Center"
+            TextWrapping="WrapWithOverflow"
+            FontSize="16"
+            TextAlignment="Center"
+            />
+
+        <TextBlock
+            x:Name="YourNameTextBlock"
+            TextWrapping="WrapWithOverflow"
+            FontWeight="Bold"
+            FontSize="16"
+            VerticalAlignment="Center"
+            TextAlignment="Center"
+            />
+        <TextBlock
+            x:Name="HisNameTextBlock"
+            TextWrapping="WrapWithOverflow"
+            FontWeight="Bold"
+            FontSize="16"
+            VerticalAlignment="Center"
+            TextAlignment="Center"
+            Grid.Column="3"
+            />
+
+        <Button
+            x:Name="ConfirmTradeButton"
+            Click="ConfirmTradeButton_Click"
+            Grid.Row="4"
+            Grid.Column="1"
+            Grid.ColumnSpan="2"
+            Margin="20,0,20,10"
+            Content="Подтвердить сделку"
+            FontSize="16"/>
+
+        <ListBox
+            x:Name="YourPayListBox"
+            Grid.Row="1"
+            Grid.RowSpan="2"
+            Grid.Column="1">
+        </ListBox>
+        <ListBox
+            x:Name="HisPayListBox"
+            Grid.Row="1"
+            Grid.RowSpan="2"
+            Grid.Column="2">
+        </ListBox>
+
+        <ListBox
+            ScrollViewer.VerticalScrollBarVisibility="Disabled"
+            x:Name="YourBalanceListBox"
+            Grid.Row="1"
+            Grid.RowSpan="2">
+        </ListBox>
+        <ListBox
+            ScrollViewer.VerticalScrollBarVisibility="Disabled"
+            x:Name="HisBalanceListBox"
+            Grid.Row="1"
+            Grid.RowSpan="2"
+            Grid.Column="3"
+            Grid.ColumnSpan="2">
+        </ListBox>
+
+        <ListBox
+            AllowDrop="True"
+            x:Name="YourItemsListBox"
+            MouseDoubleClick="SelectedListBox_MouseDoubleClick"
+            Grid.Row="3"
+            Grid.RowSpan="2">
+        </ListBox>
+        <ListBox
+            AllowDrop="True"
+            x:Name="HisItemsListBox"
+            MouseDoubleClick="SelectedListBox_MouseDoubleClick"
+            Grid.Row="3"
+            Grid.Column="3"
+            Grid.RowSpan="2">
+        </ListBox>
+
+        <ListBox
+            x:Name="GivenAwayListBox"
+            MouseDoubleClick="SelectedListBox_MouseDoubleClick"
+            Grid.Row="3"
+            Grid.Column="1">
+        </ListBox>
+        <ListBox
+            x:Name="ReceivedListBox"
+            MouseDoubleClick="SelectedListBox_MouseDoubleClick"
+            Grid.Row="3"
+            Grid.Column="2">
+        </ListBox>
+    </Grid>
+</Window>
